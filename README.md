@@ -7,6 +7,7 @@ This repository contains source code, project files and documentation for BSbox-
 For the Windows user there is necessary to install Visual C++ Redistributable Packages (Visual Studio 2019) to be able to run and use the BSbox-tools_v0.3. 
 
 **Windows version 0.3**
+
 CUDA 12.1 Runtime
 Visual C++ Redistributable Packages (Visual Studio 2019)
 Microsoft Visual C++ Redistributable latest supported downloads:
