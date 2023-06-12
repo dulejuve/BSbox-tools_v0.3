@@ -7,7 +7,7 @@ If your PC don't have CUDA capability GPU this software will be run only sequent
 
 **Windows version 0.3 (alpha) 12.06.23**
 
-Solution Configuration: x64, Debug and Release 
+Solution Configuration: build x64, Release 
 
 CUDA 12.1 Runtime
 
